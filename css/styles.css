@@ -1,0 +1,21 @@
+body{
+  background-color:rgb(234, 244, 245);
+}
+hr{
+
+  border-style: none;
+  border-top:6px dotted grey;
+  height: 1px;
+  width: 60px;
+
+}
+h2,h3{
+  font-family: Poppins,sans-serif;
+  font-weight: 400;
+  color: #66BFBF;
+}
+h1{
+  font-family: Poppins,sans-serif;
+  font-weight: 500;
+  color: #62bfbf;
+}
